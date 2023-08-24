@@ -1,8 +1,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
-<h1 align="center"> 👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<h1 align="center"> 👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -40,4 +39,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-![Faheem Malik Github Stats](https://github-readme-stats.vercel.app/api?username=faheemmalik11&theme=gotham&show_icons=true)
+ <a href="https://github.com/faheemmalik11">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faheemmalik11&hide=ASP.NET,jupyter%20notebook&theme=gotham&hide_langs_below=1" height="220px"/>
+  </a>
+  <a href="https://github.com/faheemmalik11">
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faheemmalik11&count_private=true&hide=stars&show_icons=true&theme=gotham&line_height=27" alt="Faheem Malik's github stats" height="220px" />
+  </a>
