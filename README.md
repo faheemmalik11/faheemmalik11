@@ -17,7 +17,22 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+- :I’m a developer who has passion for building clean web applications with intuitive functionality. 
+The software development services that I can provide include: 
+
+- ColdFusion / Lucee Development services & Consultancy
+- ReactJS Development services & Consultancy
+- eCommerce solutions
+- Customised Business Applications
+
+Time and effort are necessary in order to produce the high-quality services that I consistently offer to my clients. The work I put in for these superior results deserves appropriate compensation, in line with the excellent services that I am known to provide.
+
+My work is guaranteed to remain up to standard. In the interest of the quality of this work and client satisfaction, I will fix any bug / issue in my work, free of charge, of course.
+
+For any further information you want me to supply, you are free to message me and I will be happy to provide you with an answer.
+
+All the best,
+Faheem Malik
 
 <br>
 
