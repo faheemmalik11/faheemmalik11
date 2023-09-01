@@ -18,6 +18,7 @@
 <br><br>
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
+<br><br>
 
 I’m a developer who has passion for building clean web applications with intuitive functionality. 
 The software development services that I can provide include: 
