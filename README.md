@@ -64,5 +64,5 @@ Faheem Malik
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faheemmalik11&hide=ASP.NET,CSS,jupyter%20notebook&theme=gotham&hide_langs_below=1" height="220px"/>
   </a>
   <a href="https://github.com/faheemmalik11">
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faheemmalik11&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=gotham&line_height=27" alt="Faheem Malik's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faheemmalik11&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=gotham&line_height=27" alt="Faheem Malik's github stats" height="220px" width="572px"/>
   </a>
