@@ -40,6 +40,44 @@ Faheem Malik
 
 <br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+<a href="https://stackoverflow.com" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/stackoverflow/black/white" alt="14612669" height="30" width="40" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/faheemmalik" target="blank">
+ <img align="center" src="https://cdn.simpleicons.org/upwork/white/green" alt="Mitul" height="30" width="40" />
+ </a>
+
+<a href="https://twitter.com" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+ 
+<a href="https://www.facebook.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+
+<a href="https://www.instagram.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" alt="Mitul" height="30" width="40" />
+</a>
+
+
+<a href="https://www.behance.net" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/behance/white/blue" alt="Mitul" height="30" width="40" />
+</a>  
+
+<a href="https://dribbble.com" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/dribbble/c8366d/c8366d" alt="Mitul" height="30" width="40" />
+</a>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -58,6 +96,22 @@ Faheem Malik
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)&nbsp;
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chart-dot-js)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)&nbsp;
+![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-EE6E73?style=flat&logo=materialize)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)&nbsp;
+![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat&logo=electron)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)&nbsp;
+
 
 <br><br><hr>
  <a href="https://github.com/faheemmalik11">
