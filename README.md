@@ -78,7 +78,7 @@ Faheem Malik
 <img align="center" src="https://cdn.simpleicons.org/dribbble/c8366d/c8366d" alt="Mitul" height="30" width="40" />
 </a>
 
-<br>
+<br><br>
 
 ### 🛠 &nbsp;Tech Stack
 
