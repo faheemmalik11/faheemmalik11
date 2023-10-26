@@ -87,7 +87,7 @@ Faheem Malik
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.php.net/docs.php"><img src="https://camo.githubusercontent.com/4323a382aac36515bc98752188a18fc891fbe837a2bfadad70b40273c3f42d3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870266c6f676f436f6c6f723d373737424234" alt="PHP" data-canonical-src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php&amp;logoColor=777BB4" style="max-width: 100%;"></a>
 <!-- LARAVEL -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com/"><img src="https://camo.githubusercontent.com/a087dc49eac8194404637bd221910081fdd167eaac8c06f2a3f8057ef370ae51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d464632443230" alt="Laravel" data-canonical-src="https://img.shields.io/badge/-Laravel-05122A?style=flat&amp;logo=laravel&amp;logoColor=FF2D20" style="max-width: 100%;"></a>
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.java.com/en/)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
