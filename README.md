@@ -81,40 +81,39 @@ Faheem Malik
 <br><br>
 
 ### 🛠 &nbsp;Tech Stack
-<!-- JAVASCRIPT -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>
-<!-- PHP -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.php.net/docs.php"><img src="https://camo.githubusercontent.com/4323a382aac36515bc98752188a18fc891fbe837a2bfadad70b40273c3f42d3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870266c6f676f436f6c6f723d373737424234" alt="PHP" data-canonical-src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php&amp;logoColor=777BB4" style="max-width: 100%;"></a>
-<!-- LARAVEL -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com/"><img src="https://camo.githubusercontent.com/a087dc49eac8194404637bd221910081fdd167eaac8c06f2a3f8057ef370ae51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d464632443230" alt="Laravel" data-canonical-src="https://img.shields.io/badge/-Laravel-05122A?style=flat&amp;logo=laravel&amp;logoColor=FF2D20" style="max-width: 100%;"></a>
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.java.com/en/)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)&nbsp;
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chart-dot-js)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)&nbsp;
-![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-EE6E73?style=flat&logo=materialize)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)&nbsp;
-![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat&logo=electron)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)&nbsp;
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)](https://www.php.net/)&nbsp;
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)](https://laravel.com/)&nbsp;
+[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)](https://www.oracle.com/java/)&nbsp;
+[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](https://isocpp.org/)&nbsp;
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)&nbsp;
+[![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)](https://nextjs.org/)&nbsp;
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)](https://getbootstrap.com/)&nbsp;
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+[![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)](https://www.json.org/)&nbsp;
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)](https://redux.js.org/)&nbsp;
+[![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel)](https://babeljs.io/)&nbsp;
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)](https://sass-lang.com/)&nbsp;
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)&nbsp;
+[![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chart-dot-js)](https://www.chartjs.org/)&nbsp;
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)](https://www.postman.com/)&nbsp;
+[![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-EE6E73?style=flat&logo=materialize)](https://materializecss.com/)&nbsp;
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)](https://www.figma.com/)&nbsp;
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)](https://www.docker.com/)&nbsp;
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)](https://expressjs.com/)&nbsp;
+[![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat&logo=electron)](https://www.electronjs.org/)&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)](https://www.heroku.com/)&nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)](https://firebase.google.com/)&nbsp;
+
 
 
 <br><br><hr>
