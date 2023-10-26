@@ -82,8 +82,8 @@ Faheem Malik
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript(https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.php.net/docs.php"><img src="https://camo.githubusercontent.com/4323a382aac36515bc98752188a18fc891fbe837a2bfadad70b40273c3f42d3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870266c6f676f436f6c6f723d373737424234" alt="PHP" data-canonical-src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php&amp;logoColor=777BB4" style="max-width: 100%;"></a>
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
