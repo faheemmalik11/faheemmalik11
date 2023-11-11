@@ -20,12 +20,13 @@
 <br><br>
 <br><br>
 
-I’m a developer who has passion for building clean web applications with intuitive functionality. 
-The software development services that I can provide include: 
+The software development services that I can provide include:
 
-- ColdFusion / Lucee Development services & Consultancy
 - ReactJS Development services & Consultancy
-- PHP Laravel Development services & Consultancy
+- NextJS Development services & Consultancy
+- RestAPIs Integration
+- Third Party Integration
+- ColdFusion / Lucee Development services & Consultancy
 - eCommerce solutions
 - Customised Business Applications
 
@@ -43,40 +44,37 @@ Faheem Malik
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Mitul" height="30" width="40" />
+<a href="https://www.linkedin.com/in/faheemmalik11/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Faheem Malik" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com" target="blank">
+<a href="https://stackoverflow.com/users/22033853/faheem-malik" target="blank">
 <img align="center" src="https://cdn.simpleicons.org/stackoverflow/black/white" alt="14612669" height="30" width="40" />
 </a>
 
 <a href="https://www.upwork.com/freelancers/faheemmalik" target="blank">
- <img align="center" src="https://cdn.simpleicons.org/upwork/white/green" alt="Mitul" height="30" width="40" />
+ <img align="center" src="https://cdn.simpleicons.org/upwork/white/green" alt="Faheem Malik" height="30" width="40" />
  </a>
 
-<a href="https://twitter.com" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Mitul" height="30" width="40" />
+<a href="https://twitter.com/faheemmalik007" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Faheem Malik" height="30" width="40" />
 </a>
 
  
-<a href="https://www.facebook.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Mitul" height="30" width="40" />
+<a href="https://www.facebook.com/faheemmalik11" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Faheem Malik" height="30" width="40" />
 </a>
 
 
-<a href="https://www.instagram.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" alt="Mitul" height="30" width="40" />
+<a href="https://www.instagram.com/faheemmalik.11/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" alt="Faheem Malik" height="30" width="40" />
 </a>
 
 
-<a href="https://www.behance.net" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/behance/white/blue" alt="Mitul" height="30" width="40" />
+<a href="https://www.behance.net/faheemmalik11" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/behance/white/blue" alt="Faheem Malik" height="30" width="40" />
 </a>  
 
-<a href="https://dribbble.com" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/dribbble/c8366d/c8366d" alt="Mitul" height="30" width="40" />
-</a>
 
 <br><br>
 
