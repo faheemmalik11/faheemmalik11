@@ -22,8 +22,6 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
