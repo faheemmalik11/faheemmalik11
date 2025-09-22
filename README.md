@@ -119,14 +119,9 @@ Multi-tenant eCommerce solution with integrated payment processing and third-par
 ### Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/faheemmalik11/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Faheem Malik" height="30" width="40" />
-</a>
-
 <a href="https://www.upwork.com/freelancers/faheemmalik" target="_blank">
  <img align="center" src="https://cdn.simpleicons.org/upwork/14a800" alt="Faheem Malik" height="30" width="40" />
  </a>
-
 </p>
 
 ---
