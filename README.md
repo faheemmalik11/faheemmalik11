@@ -22,7 +22,8 @@ I build fast, accessible, and maintainable user interfaces with clear component 
 
 
 ### Backend
-- Node.js  
+- Node.js
+- Nest.js
 - Express.js  
 - REST APIs  
 - Authentication and authorization  
@@ -34,7 +35,9 @@ I design backend services with clean APIs and predictable data flow.
 - MongoDB  
 - Express.js  
 - React  
-- Node.js  
+- Node.js
+- AWS
+- Devops
 
 I work end-to-end across frontend, backend, and data layers.
 
