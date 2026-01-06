@@ -78,4 +78,4 @@ Node.js · Express.js · REST APIs · Authentication
 MongoDB · PostgreSQL · Supabase  
 
 **Tools:**  
-Git · GitHub · CI/CD · Docker  
+Git · GitHub · CI/CD · Docker · AWS
