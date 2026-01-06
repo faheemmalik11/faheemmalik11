@@ -2,15 +2,12 @@
 
 **Senior Full-stack Developer | MERN | React | Next.js | Supabase**
 
----
-
 ## What I build
 
 I design and build **scalable web applications** and **production-ready full-stack systems**.
 
 My focus is on clean architecture, predictable state, and systems that are easy to extend as products grow.
 
----
 
 ## Core expertise
 
@@ -23,7 +20,6 @@ My focus is on clean architecture, predictable state, and systems that are easy 
 
 I build fast, accessible, and maintainable user interfaces with clear component boundaries.
 
----
 
 ### Backend
 - Node.js  
@@ -33,7 +29,6 @@ I build fast, accessible, and maintainable user interfaces with clear component 
 
 I design backend services with clean APIs and predictable data flow.
 
----
 
 ### Full-stack (MERN)
 - MongoDB  
@@ -43,14 +38,12 @@ I design backend services with clean APIs and predictable data flow.
 
 I work end-to-end across frontend, backend, and data layers.
 
----
 
 ### Supabase
 - Authentication and role-based access  
 - PostgreSQL data modeling  
 - Realtime data handling  
 
----
 
 ## How I work
 - I think in systems, not screens  
@@ -59,8 +52,6 @@ I work end-to-end across frontend, backend, and data layers.
 - I avoid premature optimization  
 
 Good code should be easy to understand and safe to change.
-
----
 
 ## Selected work
 
@@ -71,8 +62,6 @@ My pinned repositories demonstrate:
 - Real-world application structure  
 
 These projects reflect real development practices, not demos.
-
----
 
 ## Tech I use daily
 
@@ -88,7 +77,6 @@ MongoDB · PostgreSQL · Supabase
 **Tools:**  
 Git · GitHub · CI/CD · Docker  
 
----
 
 ## Contact
 
