@@ -76,14 +76,3 @@ MongoDB · PostgreSQL · Supabase
 
 **Tools:**  
 Git · GitHub · CI/CD · Docker  
-
-
-## Contact
-
-**GitHub:**  
-https://github.com/YOUR_GITHUB_USERNAME  
-
-**LinkedIn:**  
-https://www.linkedin.com/in/YOUR_LINKEDIN/  
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
